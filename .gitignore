@@ -231,3 +231,4 @@ $RECYCLE.BIN/
 *.suo
 /.vs/SakuraStyle/v16/Server/sqlite3
 /JsonModelConvert/.vs/JsonModel/v16/Server/sqlite3
+/.vs/JsonModel/v16/Server/sqlite3
